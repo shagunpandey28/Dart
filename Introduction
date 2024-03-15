@@ -1,0 +1,6 @@
+void main(){
+  // This is comment; single line comments;
+  print("Hello world");
+  print(3);
+  
+}
