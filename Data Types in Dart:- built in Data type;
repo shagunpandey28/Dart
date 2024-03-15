@@ -1,0 +1,12 @@
+void main(){
+  // int delcaration
+   int score = 23;
+// double declaration
+  double marks =223.3333;
+// string declaration
+  String name = " henry";
+// boolean declarations
+  bool isvalid = false;
+  print(name);
+  print(isvalid);
+}
